@@ -15,7 +15,6 @@
 .cabecalho {
     background-color: #FFFFFF;
     height: 64px;
-    width: 1440px;
     display: grid;
     grid-template-columns: 60% 25% 15%;
     align-items: center;
@@ -96,7 +95,6 @@
 
 
 .sessao-2 {
-    width: 1440px;
     height: 266px;
     background-color: #F2F2F2;
     display: grid;
@@ -122,7 +120,6 @@
     align-items: center;
     justify-items: center;
     background-color: #333;
-    width: 1440px;
     height: 600px;
 }
 
@@ -170,7 +167,6 @@
     align-items: center;
     justify-items: center;
     background-color: #F2F2F2;
-    width: 1440px;
     height: 600px;
 }
 
@@ -218,7 +214,6 @@
     align-items: center;
     justify-items: center;
     background-color: #FFFFFF;
-    width: 1440px;
     height: 600px;
 }
 
